@@ -1,0 +1,12 @@
+ssh bandit3@bandit.labs.overthewire.org -p 2220
+
+username: bandit3
+password: UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+
+ls
+cat ‘spaces in this filename’ 
+
+ls - Lists all documents in directory
+cat - Opens/Reads Document 
+
+Password obtained: 
