@@ -1,0 +1,14 @@
+ssh bandit1@bandit.labs.overthewire.org -p 2220
+
+username: bandit1
+password: boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+
+First ls to find list of files and then 
+cat readme 
+
+ls - Lists all documents in directory
+cat - Opens/Reads Document 
+
+Password obtained: CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+
+
