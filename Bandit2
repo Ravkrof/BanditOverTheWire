@@ -1,0 +1,14 @@
+ssh bandit2@bandit.labs.overthewire.org -p 2220
+
+username: bandit2
+password: CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+
+ls
+cat ./-
+Cannot open file directly with cat because name consists of hyphen hence we use ./-  because otherwise it considers it as stdin/stdout
+
+ls - Lists all documents in directory
+cat - Opens/Reads Document 
+
+Password obtained: UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+
