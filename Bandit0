@@ -1,0 +1,15 @@
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+
+This connects you to the bandit.labs.overthewire.org on the 2220 port
+Here the username is bandit0 and the password is bandit0 which has already been provided. 
+
+This level only requires us to log in. 
+
+What is ssh?
+Secure Socket Shell which is a protocol that allows one to connect securely to a remote computer.
+The ssh command provides a secure encrypted connection between two hosts over an insecure network.
+
+More Info on ssh 
+https://phoenixnap.com/kb/ssh-to-connect-to-remote-server-linux-or-windows
+https://www.geeksforgeeks.org/ssh-command-in-linux-with-examples/
+
